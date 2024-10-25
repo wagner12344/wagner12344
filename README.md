@@ -1,3 +1,6 @@
+[!Snake animation](https://github.com/wagner12344/wagner12344/blob/output/github-contribution-grid-snake.svg)
+
+
 ## Hi there !! :smiley:
 
 <b>Eu sou o Gustavo Araujo, sou um porgramador Frot End, futuro Full Stack, Atualmente estou aprendendo e criando projetos com:<b>
